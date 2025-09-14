@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">A dedicated and goal-oriented Computer Science and Design undergraduate at KSIT with a strong interest in full stack web development. Passionate about building scalable, responsive, and user-friendly web applications by leveraging both <br>frontend and backend technologies. Eager to apply academic knowledge and practical skills in a professional setting.</p>
+<p align="left">A dedicated and goal-oriented Computer Science and Design undergraduate at KSIT with a strong interest in full stack web development. Passionate about building scalable, responsive, and user-friendly web applications by leveraging both frontend and backend technologies. Eager to apply academic knowledge and practical skills in a professional setting.</p>
 
 ###
 
